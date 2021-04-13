@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Todoist Extension Options</title>
+
+    <style>
+        body {
+            padding: 20px;
+			font-size: 14px;
+        }
+
+        h6 {
+            margin-top: 0;
+            margin-bottom: 0.5em;
+            font-weight: bold;
+            font-size: 14px;
+            color: #202020;
+        }
+
+        label {
+            display: block;
+            margin: 1em 0;
+        }
+
+        #status {
+            height: 20px;
+            color: #aaaaaa;
+        }
+    </style>
+</head>
+
+<body>
+    <h6 data-message="optionsAddDueTitle">For tasks added via the Chrome extension:</h6>
+
+    <label>
+      <input type="checkbox" id="with_due_today">
+      <span data-message="optionsAddTodayLabel">Set default due date for 'Today'</span>
+    </label>
+
+    <div id="status"></div>
+
+    <script src="i18nUtils.js"></script>
+    <script src="options.js"></script>
+</body>
+
+</html>

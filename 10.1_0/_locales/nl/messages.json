@@ -1,0 +1,20 @@
+{
+   "addToTodoist": {
+      "message": "Toevoegen aan Todoist"
+   },
+   "appDesc": {
+      "message": "Organiseer je werk als privé-leven met Todoist voor Chrome"
+   },
+   "appName": {
+      "message": "Todoist voor Chrome"
+   },
+   "optionsAddDueTitle": {
+      "message": "Voor taken die zijn toegevoegd via de Chrome extensie:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Stel de standaard-datum in als ‘Vandaag’ "
+   },
+   "optionsSaved": {
+      "message": "Opgeslagen"
+   }
+}

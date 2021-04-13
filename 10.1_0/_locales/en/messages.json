@@ -1,0 +1,20 @@
+{
+   "addToTodoist": {
+      "message": "Add to Todoist"
+   },
+   "appDesc": {
+      "message": "Organize work and life with Todoist for Chrome"
+   },
+   "appName": {
+      "message": "Todoist for Chrome"
+   },
+   "optionsAddDueTitle": {
+      "message": "For tasks added via Todoist for Chrome:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Set default due date for 'Today'"
+   },
+   "optionsSaved": {
+      "message": "Saved"
+   }
+}

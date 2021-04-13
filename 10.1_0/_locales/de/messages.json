@@ -1,0 +1,20 @@
+{
+   "addToTodoist": {
+      "message": "Zu Todoist hinzufügen"
+   },
+   "appDesc": {
+      "message": "Organisiere Arbeit und Leben mit Todoist für Chrome"
+   },
+   "appName": {
+      "message": "Todoist für Chrome"
+   },
+   "optionsAddDueTitle": {
+      "message": "Für Aufgaben, die über die Chrome-Erweiterung hinzugefügt werden:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Das Fälligkeitsdatum standardmäßig auf ‚Heute‘ festlegen"
+   },
+   "optionsSaved": {
+      "message": "Gespeichert"
+   }
+}

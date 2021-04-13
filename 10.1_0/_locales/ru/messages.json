@@ -1,0 +1,20 @@
+{
+   "addToTodoist": {
+      "message": "Добавить в Todoist"
+   },
+   "appDesc": {
+      "message": "Организуйте свою жизнь и работу с Todoist для Chrome"
+   },
+   "appName": {
+      "message": "Todoist для Chrome"
+   },
+   "optionsAddDueTitle": {
+      "message": "Для задач, добавленных через расширение для Chrome:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Сроком по умолчанию считать 'Сегодня'"
+   },
+   "optionsSaved": {
+      "message": "Сохранено"
+   }
+}

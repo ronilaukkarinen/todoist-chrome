@@ -1,0 +1,20 @@
+{
+   "addToTodoist": {
+      "message": "Lisää Todoistiin"
+   },
+   "appDesc": {
+      "message": "Järjestä työsi ja elämäsi Chrome-laajennuksella"
+   },
+   "appName": {
+      "message": "Todoist Chromelle"
+   },
+   "optionsAddDueTitle": {
+      "message": "Chrome-laajennuksen kautta lisättyihin tehtäviin:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Aseta oletuksena eräpäiväksi 'Tänään'"
+   },
+   "optionsSaved": {
+      "message": "Tallennettu"
+   }
+}

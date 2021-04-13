@@ -1,0 +1,20 @@
+{
+   "addToTodoist": {
+      "message": "Ajouter sur Todoist"
+   },
+   "appDesc": {
+      "message": "Organisez votre vie et votre travail avec Todoist pour Chrome"
+   },
+   "appName": {
+      "message": "Todoist pour Chrome"
+   },
+   "optionsAddDueTitle": {
+      "message": "Pour les tâches ajoutées avec l’extension pour Chrome:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Régler la date d’échéance par défaut à  'Aujourd’hui'"
+   },
+   "optionsSaved": {
+      "message": "Enregistré"
+   }
+}

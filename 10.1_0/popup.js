@@ -30,6 +30,7 @@ window.addEventListener(
 )
 
 function init() {
+    chrome.tabs.create({'url': 'https://todoist.com'}, function(tab) {});
     window.BG_PAGE = chrome.extension.getBackgroundPage()
     window.TODOIST_FRAME = document.getElementById("todoist_frame")
 

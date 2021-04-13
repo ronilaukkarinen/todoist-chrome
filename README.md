@@ -6,6 +6,7 @@ This forked version has:
 
 - Red badge
 - Monochrome icon for dark Chrome theme
+- Opens to Todoist.com on click instead of popup frame
 
 <hr>
 
